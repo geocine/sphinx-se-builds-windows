@@ -12,12 +12,12 @@ Sphinx SE build for MySQL Windows. Pre-compiled sphinx storage engine binaries f
 
 4. Install plugin
 
-		INSTALL PLUGIN sphinx SONAME "ha_sphinx.dll"
+		INSTALL PLUGIN sphinx SONAME "ha_sphinx.dll";
 
 5. Still from mysql console execute show engines. It should show sphinx if you have installed it successfully
 
 		show engines;
 5. If you want to uninstall, here is how to do it.
 
-		UNINSTALL PLUGIN sphinx
+		UNINSTALL PLUGIN sphinx;
 
