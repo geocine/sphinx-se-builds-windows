@@ -8,7 +8,7 @@ Sphinx SE build for MySQL Windows. Pre-compiled sphinx storage engine binaries f
 2. Paste **ha_sphinx.dll** file to `mysql/lib/plugin`
 3. Login to mysql console
 
-		mysql -u r<username> -p
+		mysql -u <username> -p
 
 4. Install plugin
 
