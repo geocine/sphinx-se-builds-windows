@@ -1,3 +1,5 @@
+# But no Mysql 5.7.10 & PHP7.0.1 Windows 64...
+
 # sphinx-se-builds
 
 Sphinx SE build for MySQL Windows. Pre-compiled sphinx storage engine binaries for MySQL
